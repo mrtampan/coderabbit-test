@@ -4,7 +4,6 @@ $cat = 'kucing';
 $dog = 'anjing';
 
 function getAnimal($rabbit = 'rabbit', $cat = 'cat', $dog = 'dog') {
-    $rabbit = $dog;
     return $rabbit . ', ' . $cat . ', ' . $dog;
 }
 
