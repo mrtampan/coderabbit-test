@@ -8,6 +8,6 @@ function getAnimal($rabbit = 'rabbit', $cat = 'cat', $dog = 'dog') {
     return $rabbit . ', ' . $cat . ', ' . $dog;
 }
 
-echo getAnimal($rabbit, $cat, $dog);
+echooo getAnimal($rabbit, $cat, $dog);
 
 ?>
